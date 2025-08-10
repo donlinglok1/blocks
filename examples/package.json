@@ -236,7 +236,7 @@
     "react-use": "^17.3.1",
     "recharts": "^2.1.6",
     "styled-components": "^5.3.3",
-    "three": "^0.134.0"
+    "three": "^0.178.0"
   },
   "resolutions": {
     "react": "17.0.0",

@@ -199,7 +199,7 @@
     "@excalidraw/excalidraw": "^0.10.0",
     "@fullstackio/cq": "^6.0.9",
     "@fullstackio/remark-cq": "^6.1.2",
-    "@githubnext/utils": "^0.12.3",
+    "@githubnext/utils": "^0.23.0",
     "@githubocto/flat-ui": "^0.13.5",
     "@loadable/component": "^5.15.0",
     "@mdx-js/runtime": "^1.6.22",
